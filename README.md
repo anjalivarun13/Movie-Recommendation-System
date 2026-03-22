@@ -1,4 +1,5 @@
-# 🎬 Movie Recommendation System
+# 🎬 Movie Recommendation System - Using NLP
+## 🔍Project Overview
 
 A **Machine Learning and NLP-based Movie Recommendation System** that provides personalized movie suggestions based on your selected movie. Built using **Python**, **Streamlit**, and **NLP techniques**.
 
@@ -6,7 +7,14 @@ A **Machine Learning and NLP-based Movie Recommendation System** that provides p
 
 ## 📝 Description
 
-This project leverages **Natural Language Processing (NLP)** and **Machine Learning** to recommend movies similar to the one you like. The system analyzes movie metadata such as **title, genres, cast, and keywords**, processes them using NLP, and generates recommendations based on **similarity scores**.
+The system leverages **Natural Language Processing (NLP)** and **Machine Learning** to generate recommendations. It analyzes movie metadata such as:
+
+- **Title**  
+- **Genres**  
+- **Votings**  
+- **Keywords / Plot**  
+
+Textual features are preprocessed, vectorized using **TF-IDF**, and similarity is calculated using **Cosine Similarity** to recommend relevant movies.
 
 ---
 
@@ -54,7 +62,7 @@ This project leverages **Natural Language Processing (NLP)** and **Machine Learn
    Movie Metadata → Preprocessing → TF-IDF Vectorization → Cosine Similarity → Recommendations
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Movie Recommendation System Screenshots
 
 ### 1️⃣ Home Page
 ![Home Page](https://github.com/anjalivarun13/Movie-Recommendation-System/blob/main/folder/page1.png)
@@ -65,12 +73,12 @@ This project leverages **Natural Language Processing (NLP)** and **Machine Learn
 ### 3️⃣ Recommendations (Scroll Down)
 ![Recommendations](https://github.com/anjalivarun13/Movie-Recommendation-System/blob/main/folder/page3.png)
 
-### 4️⃣ More Like This / Genre
+### 4️⃣ More Like This / Genre (Scroll Down)
 ![More Like This](https://github.com/anjalivarun13/Movie-Recommendation-System/blob/main/folder/page4.png)
 
 ---
 
-## 🎬 Demo
+## 🎬 Video Demo
 
 Check out the full demo of the **Movie Recommendation System**:
 
@@ -78,7 +86,7 @@ Check out the full demo of the **Movie Recommendation System**:
 
 ---
 
-## 🔹 Live Demo
+## 🔹 Live web Demo
 
 Check out the deployed app: [Movie Recommendation System](https://movie-recommendation-system-anjalivarun.streamlit.app/)
 
@@ -113,3 +121,22 @@ streamlit run app.py
 - Implement **hybrid recommendation (content + collaborative filtering)**
 - Add user **profiles** for personalized recommendations
 - Enable **real-time API integration** for dynamic data
+
+---
+
+# 🙏 Credits & Acknowledgements
+- **Dataset:** Kaggle MovieLens Dataset
+- **Libraries:** Pandas, NumPy, Scikit-learn, Streamlit
+- Inspired by existing movie recommendation tutorials and ML/NLP techniques
+
+---
+# Author
+
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-✅-brightgreen)](https://en.wikipedia.org/wiki/Machine_learning)
+[![NLP](https://img.shields.io/badge/NLP-✅-red)](https://en.wikipedia.org/wiki/Natural_language_processing)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+**Author:** Anjali Varun  
+**GitHub:** [anjalivarun13](https://github.com/anjalivarun13)  
+**LinkedIN:** [anjalivarun](https://www.linkedin.com/in/anjali-varun/)
