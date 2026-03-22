@@ -54,6 +54,22 @@ This project leverages **Natural Language Processing (NLP)** and **Machine Learn
    Movie Metadata → Preprocessing → TF-IDF Vectorization → Cosine Similarity → Recommendations
 ---
 
+## 🖼️ Screenshots
+
+### 1️⃣ Home Page
+![Home Page](frontend/images/homepage.png)
+
+### 2️⃣ Picture Section
+![Picture Section](frontend/images/picture_section.png)
+
+### 3️⃣ Recommendations (Scroll Down)
+![Recommendations](frontend/images/recommendations.png)
+
+### 4️⃣ More Like This / Genre
+![More Like This](frontend/images/more_like_this.png)
+
+---
+
 ## 🎬 Demo
 
 Check out the full demo of the **Movie Recommendation System**:
