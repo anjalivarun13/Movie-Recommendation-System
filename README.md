@@ -83,3 +83,33 @@ Check out the full demo of the **Movie Recommendation System**:
 Check out the deployed app: [Movie Recommendation System](https://movie-recommendation-system-anjalivarun.streamlit.app/)
 
 ---
+
+## ⚙️ Installation
+
+### Clone the repository
+```bash
+git clone https://github.com/your-username/movie-recommendation-system.git
+cd movie-recommendation-system/frontend 
+```
+
+### Create virtual environment
+```bash
+python3.11 -m venv venv
+source venv/bin/activate   # Linux/macOS
+venv\Scripts\activate      # Windows
+```
+### Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Run the Streamlit app
+```bash
+streamlit run app.py
+```
+---
+# 🔮 Future Improvements
+- Upgrade NLP model to **BERT / Sentence Transformers** for better semantic understanding
+- Implement **hybrid recommendation (content + collaborative filtering)**
+- Add user **profiles** for personalized recommendations
+- Enable **real-time API integration** for dynamic data
