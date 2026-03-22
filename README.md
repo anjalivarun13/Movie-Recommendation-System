@@ -97,7 +97,6 @@ Check out the deployed app: [Movie Recommendation System](https://movie-recommen
 ### Clone the repository
 ```bash
 git clone https://github.com/your-username/movie-recommendation-system.git
-cd movie-recommendation-system/frontend 
 ```
 
 ### Create virtual environment
@@ -139,4 +138,4 @@ streamlit run app.py
 
 **Author:** Anjali Varun  
 **GitHub:** [anjalivarun13](https://github.com/anjalivarun13)  
-**LinkedIN:** [anjalivarun](https://www.linkedin.com/in/anjali-varun/)
+**LinkedIn:** [anjalivarun](https://www.linkedin.com/in/anjali-varun/)
