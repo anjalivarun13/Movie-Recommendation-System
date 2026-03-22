@@ -65,16 +65,16 @@ Textual features are preprocessed, vectorized using **TF-IDF**, and similarity i
 ## 🖼️ Movie Recommendation System Screenshots
 
 ### 1️⃣ Home Page
-![Home Page](https://github.com/anjalivarun13/Movie-Recommendation-System/blob/main/folder/page1.png)
+![Home Page](https://github.com/anjalivarun13/Movie-Recommendation-System/blob/main/Screenshot/page1.png)
 
 ### 2️⃣ Picture Section
-![Picture Section](https://github.com/anjalivarun13/Movie-Recommendation-System/blob/main/folder/page2.png)
+![Picture Section](https://github.com/anjalivarun13/Movie-Recommendation-System/blob/main/Screenshot/page2.png)
 
 ### 3️⃣ Recommendations (Scroll Down)
-![Recommendations](https://github.com/anjalivarun13/Movie-Recommendation-System/blob/main/folder/page3.png)
+![Recommendations](https://github.com/anjalivarun13/Movie-Recommendation-System/blob/main/Screenshot/page3.png)
 
 ### 4️⃣ More Like This / Genre (Scroll Down)
-![More Like This](https://github.com/anjalivarun13/Movie-Recommendation-System/blob/main/folder/page4.png)
+![More Like This](https://github.com/anjalivarun13/Movie-Recommendation-System/blob/main/Screenshot/page4.png)
 
 ---
 
